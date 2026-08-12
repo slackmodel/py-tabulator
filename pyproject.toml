@@ -1,6 +1,6 @@
 [project]
 name = "pytabulator"
-version = "0.2.5"
+version = "0.2.5+slackmodel.1"
 description = "Shiny bindings for Tabulator JS"
 authors = [{ name = "Stefan Kuethe", email = "stefan.kuethe@eoda.de" }]
 readme = "README.md"
