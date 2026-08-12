@@ -115,9 +115,9 @@ shiny run docs/examples/getting_started/shiny_express_all.py
 ### Python
 
 ```bash
-poetry install
+uv sync --extra all
 
-poetry run pytest
+uv run pytest
 ```
 
 ### JavaScript
